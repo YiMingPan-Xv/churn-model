@@ -4,7 +4,7 @@ This case study explores customer churn prediction using Gradient Boosting and i
 
 ### Objective
 ---
-Predict which customers are more likely to churn and understand why behind each prediction using explainable AI. 
+Predict which customers are more likely to churn and understand the reason behind each prediction using explainable AI. 
 
 ### Contents
 ---
